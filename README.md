@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
 
+- ⚡ Fun fact **dungeons and dragons enthusiast**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
