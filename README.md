@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahir</h1>
-<h3 align="center">A passionate self-taught, based in Serbia since about 10 years.</h3>
+<h3 align="center">A passionate self-taught, based in Serbia for about 10 years now.</h3>
 
 - 🔭 I’m currently working on **My personal website**
 
