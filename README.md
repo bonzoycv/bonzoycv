@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My personal server to host my games and website**
 
-- 🌱 I’m currently learning **HTML, CSS, JS**
+- 🌱 I’m currently learning **HTML, CSS, Python and JS**
 
 - ⚡ Fun fact **dungeons and dragons enthusiast**
 
