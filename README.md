@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yahir</h1>
 <h3 align="center">A passionate self-taught, IT obsessed trying to learn something new.</h3>
 
-- 🔭 I’m currently working on **My personal server to host my games and website**
 
-- 🌱 I’m currently learning **HTML, CSS, Python and JS**
+- 🌱 I love Linux and I'm Learning **HTML, CSS, Python and JS**
 
 - ⚡ Fun fact **dungeons and dragons enthusiast**
 
