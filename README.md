@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yahir</h1>
-<h3 align="center">A passionate self-taught, IT obsessed trying to learn something new.</h3>
+<h3 align="center">A Linux enthusiast and follower of the open source philosophy.</h3>
 
 
-- 🌱 I love Linux and I'm Learning **HTML, CSS, Python and JS**
+- 🌱 I'm Learning **HTML, CSS, Python and JS**
 
-- ⚡ Fun fact **dungeons and dragons enthusiast**
+- ⚡ Fun fact **dungeons and dragons forever DM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
