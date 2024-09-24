@@ -2,9 +2,9 @@
 <h3 align="center">A Linux enthusiast and follower of the open source philosophy.</h3>
 
 
-- 🌱 I'm Learning **HTML, CSS, Python and JS**
+- 🌱 I'm Learning **HTML, CSS, and GDScript in Godot**
 
-- ⚡ Fun fact **dungeons and dragons forever DM**
+- ⚡ Fun fact **D&D forever DM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
