@@ -2,9 +2,11 @@
 <h3 align="center">A Linux enthusiast and follower of the open source philosophy.</h3>
 
 
-- 🌱 I'm Learning **HTML, CSS, and GDScript in Godot**
+- 🌱 **HTML, CSS, and GDScript**
 
 - ⚡ Fun fact **D&D forever DM**
+  
+<h2>I use Arch BTW, an Fedora too.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
