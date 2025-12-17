@@ -2,11 +2,11 @@
 
 ### Hola, soy Bonzoycv 👋
 
-💻 **SysAdmin & Linux Enthusiast** | Belgrade, RS
-Minimalista digital. Fan de Fedora, Pop!_OS y el código limpio.
+💻 **SysAdmin & Linux Enthusiast** 
+Minimalista digital.
 
 - 🔭 Trabajando en: [NoPlayGames.dev](https://noplaygames.dev)
-- 🐧 Distros: Fedora 43 / Pop!_OS (Cosmic)
+- 🐧 Distros: Fedora 43
 - 🛠️ Herramientas: Nano, Bash, Python, HTML/CSS (No-JS philosophy)
 - 🎲 Hobbies: D&D 5e, Aventuras Gráficas
 
