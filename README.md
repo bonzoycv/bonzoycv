@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Yahir</h1>
-<h3 align="center">A Linux enthusiast and follower of the open source philosophy.</h3>
 
 
-- 🌱 **HTML, CSS, and GDScript**
+### Hola, soy Bonzoycv 👋
 
-- ⚡ Fun fact **D&D forever DM**
-  
-<h2>I use Fedora BTW!</h2>
+💻 **SysAdmin & Linux Enthusiast** | Belgrade, RS
+Minimalista digital. Fan de Fedora, Pop!_OS y el código limpio.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 🔭 Trabajando en: [NoPlayGames.dev](https://noplaygames.dev)
+- 🐧 Distros: Fedora 43 / Pop!_OS (Cosmic)
+- 🛠️ Herramientas: Nano, Bash, Python, HTML/CSS (No-JS philosophy)
+- 🎲 Hobbies: D&D 5e, Aventuras Gráficas
+
+---
+*"Keep it simple, stupid."*
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
