@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **D&D forever DM**
   
-<h2>I use Arch and Fedora BTW!</h2>
+<h2>I use Fedora BTW!</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
