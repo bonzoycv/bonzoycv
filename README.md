@@ -6,8 +6,8 @@
 Minimalista digital.
 
 - 🔭 Trabajando en: [NoPlayGames.dev](https://noplaygames.dev)
-- 🐧 Distros: Fedora 43
-- 🛠️ Herramientas: Nano, Bash, Python, HTML/CSS (No-JS philosophy)
+- 🐧 Distros: Debian
+- 🛠️ Herramientas: Adicto a Nano y Bash 
 - 🎲 Hobbies: D&D 5e, Aventuras Gráficas
 
 ---
